@@ -5,6 +5,7 @@
     1.	when did the customer last purchased? (Recency)
     2.	how often does the customer purchase? (Frequency)
     3.	how much money did the customer spend? (Monetary)
+
 (B) Market Basket Analysis (Support, Lift, Confidence) with the help of association rules helps to find out which item will also be picked along the the previously purchsed item ( A consequent is an item found in combination with the antecedent)
 ## Dataset Information
 This Online Retail II data set contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2010 and 09/12/2011.The company mainly sells unique all-occasion gift-ware. Many customers of the company are wholesalers.
@@ -22,4 +23,5 @@ This Online Retail II data set contains all the transactions occurring for a UK-
 1. Need Attention Customer
 2. At Risk Customer
 3. Can't loose Customer
+
 (B) The objective for Market Basket Analysis is to look at the behavior of items being purchased with the help of association rules. In this project, marketbasket analysis was conducted on the dataset by finding and analysing the values of lift, support and confidence. Following this, the change in buying behaviour countrywise was analysed in this project. Here, a consequent is an item found in combination with the antecedent was found out and based on that prediction can be done on how to use the derived rules for the amplification of the retail business.
