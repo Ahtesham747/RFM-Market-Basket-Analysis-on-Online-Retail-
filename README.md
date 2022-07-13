@@ -1,4 +1,4 @@
-# Analysis-on-Global-Superstore
+# RFM & Market Basket Analysis on Online Retail
 ### Data Source : UCI Repository : - https://archive.ics.uci.edu/ml/machine-learning-databases/00502/online_retail_II.xlsx
 ## Problem Statement
 (A) In order to maintain a good CRM (Customer Relationship Management), a company should be aware of each customer’s attitude towards the company. The company should know the answers to the following questions:
